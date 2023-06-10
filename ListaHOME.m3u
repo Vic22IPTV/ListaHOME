@@ -58,7 +58,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-chno="22.1"id="TUDN 🇲🇽" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title=" group-title="Deportes",TUDN 🇲🇽
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/77320
 
@@ -75,7 +74,7 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 http://37.49.230.42:8080/96e1e190/abb9f8142a/298042
 
 #EXTINF:-1 tvg-chno="130.1"id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="mex",FOX SPORTS Premium 🇲🇽 op2
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
+http://37.49.230.42:8080/96e1e190/abb9f8142a/3203
 
 #EXTINF:-1 tvg-chno="23"id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportesⓧ FHD 🇺🇸
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/1203
@@ -84,12 +83,43 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/1203
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/894
 
 #EXTINF:-1 tvg-chno="92.4"id="Bein Sport Extra Ñ" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/33d3d5ec9a811182c2c6b64124bfe872.webp" group-title="Deportes",Bein Sport Extra Ñ
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-chno="92.3"id="Bein Sport Extra 🇺🇸" tvg-logo="" group-title="Sports",Bein Sport Extra 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN.m3u8
 
+#EXTINF:-1 tvg-chno="23.3"id="Golazo 🇺🇸" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs97tLSQQ5GUHiNGZEe_P8shqXPwroUGh_A&usqp=CAU" group-title="Deportes",Golazo 🇺🇸
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
+
+#EXTINF:-1 tvg-chno="11"id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México 
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-chno="11.1"id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network México 
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-chno="56.1"id="" tvg-name="MX:Nick" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-chno="56"id="" tvg-name="MX:Nick JR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",Nick JR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-chno="56.2"id="" tvg-name="Toon Goggles" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",Toon Googgles
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BsqLg8pzDDUm3hq5iJsq
+
+#EXTINF:-1 tvg-chno="55"id="" tvg-name="Discovery Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",Discovery Kids
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-chno="55.1"logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids 
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-chno="62.2"id="Horrorfy" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/Horrofy_cover_FastChannel_1920x1080-752x423.jpg" group-title="Movies2",Horrorfy
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/e74f5b21-2e54-4b36-8da1-2ce3fcd60de3/5.m3u8
+
+#EXTINF:-1 tvg-chno="62"id="CinePREMIER.us" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Movie3",Cine PREMIER
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-chno="61.1"id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Movies",SEO TV Películas 
 https://live.seo.tv.bo/live/4SEO.m3u8
@@ -113,23 +143,20 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="11"id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México 
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-chno="11.1"id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network México 
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
 #EXTINF:-1 tvg-chno="77.1"id="" tvg-name="AMC ESPAÑOL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="Mexico ➾ Documentary",AMC español
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-chno="77"id="" tvg-name="Caso cerrado" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="Mexico ➾ Documentary",Caso Cerrado
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-chno="75.1"id="" tvg-name="MX: TeleMUNDO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="Mexico",TELEMUNDO 51
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-chno="75"id="" tvg-name="TeleMUNDOint" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="Mexico",TELEMUNDO internacional
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/92782
+
+#EXTINF:-1 tvg-logo="https://rndserv.xyz/img/telemundo.png", Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-chno="74.1"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",LA: Univision Los Angeles California KMEX TV
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/172659
@@ -142,7 +169,8 @@ https://dcs3-live.mp.lura.live/server/podserve/ADn3nqTORo32sKO7/rendition.m3u8?t
 #EXTINF:-1 tvg-chno="72"id=" group-title="Bics",Novelas Brasil (novelas)
 https://dcs3-live.mp.lura.live/server/podserve/AoeWeMi5w6vEHYy7/rendition.m3u8?track=video-5&ts
 
-
+#EXTINF:-1 tvg-chno="89"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/f87b4e5d-e7ce-4bc6-af74-1dd603a4d51b/5.m3u8
 
 #EXTINF:-1 tvg-chno="73"id=" group-title="Bics", WEATHER CHANNEL ESPAÑOL
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
@@ -152,6 +180,9 @@ https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="78"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INTERNACIONAL",RT (Español)
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="12"id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -172,4 +203,4 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60900
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-chno="15.1"id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
