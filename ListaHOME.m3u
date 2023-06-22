@@ -65,7 +65,7 @@ https://v3.playerlatino.live/stream/m3u8/698
 https://v3.playerlatino.live/stream/m3u8/878
 
 #EXTINF:-1 tvg-chno="23"id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="mex",FOX SPORTS Premium 🇲🇽 
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/53549
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/53540
 
 #EXTINF:-1 tvg-chno="24"id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportes 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/03.m3u8
@@ -224,7 +224,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-chno="77"id=" group-title="Bics", WEATHER CHANNEL ESPAÑOL
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5/variant.m3u8?url=aaacac67a5ba3c691d9099c196e0854b-44c2d71e4818f52ef97d26a19b108f9370d30a0568304daed5232c8b73deb1eb897c550501b47bd0be6fc9423b158f1e67f57311f17f4c0823dc858a2f7c6eb3f59596bfb703fc6dd1c517656258feb8910aaa3cf4991b4815d5269fd53515c08f88e6dd52fb635f5a91f02e4924a83f1afe74295eff048c933fad1deef4ee3135eb3424035cf142b68a6d165369823dbdb9608c20285540b719e234a346fa77fdb72b81fc62fc4ecf92e7e86e8add92e7c4c4e266d85f0becd9f2888aed9d889af78974cac21543258b73f7959a45f3&x-plex-token=ikmdM7JvraByjiduG79q&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-provider-streaming-start=1687118548
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5/variant.m3u8?url=4b93e39d09f02c158aa4e10ab0bc8a68-470503ece2322b8952bfbfd162def3c5a85aea4e7dc5a9fbcacd2259266c48eb02c6ba07fbf21736861becca1b0fb10822aa7503f90bbeec028f3622a5da221c2575f681fd78d4e94b9f097b07baaa5b0406e01b85eaebfa7c4a3f7a88ec3dd6ec9f71517a747830ac31b2cf2a3a74e6c47b34700393df7e83fd388d152dfd8d485dad83c1799c8f7de1867e0ed1c3503eeba3c0589f6affdee2626acf1e323e8b4d763304fd9a3e888596be7eb6f3473cd1263142aa719ffcf1f70baeec6f9465c971d03586832f4181372b31fc2748&x-plex-token=Q6ESyxZyQz6ZyFrRX7Wt&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-provider-streaming-start=1687445120
 
 #EXTINF:-1 tvg-chno="78"group-title="Bics", EURO NEWS
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=GDTZYUugtoycsEVS14Z4
