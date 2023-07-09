@@ -140,7 +140,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="49"id="Horrorfy" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/Horrofy_cover_FastChannel_1920x1080-752x423.jpg" group-title="Movies2",Horrorfy
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/e74f5b21-2e54-4b36-8da1-2ce3fcd60de3/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="50"id="CinePREMIER.us" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Movie3",Cine PREMIER
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
@@ -182,7 +182,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/173.ts
 https://v3.playerlatino.live/stream/m3u8/99
 
 #EXTINF:-1 tvg-chno="63"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/f87b4e5d-e7ce-4bc6-af74-1dd603a4d51b/5.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QfK3mYzDR-MzyX4BGLnA
 
 #EXTINF:-1 tvg-chno="64"id="AQUI Y AHORA" tvg-logo="https://images.vix.com/prd/channel/61f837a07716418e3547bfaf/a7f93efc739e0e2e99a254741a992c96?tr=q-80&w=1920" group-title="Tv Abierta2",AQUI Y AHORA
 https://linear-306.frequency.stream/306/hls/master/playlist.m3u8
@@ -196,14 +196,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 #EXTINF:-1 tvg-chno="67"id="Spaninglis" tvg-logo="https://a.jsrdn.com/hls/23007/spanglish/thumbh_20220308_182113_270.png" group-title="variedad",Spanglish  
 https://d1rfybckk5ifoz.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Spanglish-DistroTV/285.m3u8
 
-#EXTINF:-1 tvg-chno="68"id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
+#EXTINF:-1 tvg-chno="68"id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="69" group-title="Bics Extra",RCN EXTRA CO
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="70"id="RCTV novelas" tvg-logo="https://a.jsrdn.com/hls/23007/spanglish/thumbh_20220308_182113_270.png" group-title="variedad",RCTV Novelas
-https://linear-334.frequency.stream/334/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="70"group-title="CULTURA"tvg-id="216dtv.cl"tvg-logo="https://i.imgur.com/XFFTAYW.png",TNT NOVELAS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBgg0mY7qybgGkvcv3HkQw","kid":"SessGL7WUsyTyHXOu5r0Dg"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1212/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 
 #EXTINF:-1 tvg-chno="71"id=" group-title="Bics",NOVELAS TURCAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
@@ -259,11 +264,24 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-chno="88",UNIMAS
 http://188.241.218.14:8070/pachaman/W63X36m5G97cj7Lf/147654
 
-#EXTINF:-1 tvg-chno="89"id="" tvg-name="UNIVISION Dallas" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision Dallas
-https://v3.playerlatino.live/stream/m3u8/99
+#EXTINF:-1 tvg-chno="89"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision Modesto CA
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61186
 
-#EXTINF:-1 tvg-chno="90"id="CLARO SPORTS" tvg-name="CLARO SPORTS HD MEXICO" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title="Deportes",CLARO SPORTS 
+#EXTINF:-1 tvg-chno="90",Telemundo Chicago, IL WSNSⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1212
+
+#EXTINF:-1 tvg-chno="91",FOX SPORTS Premium 🇲🇽 OK
+http://167.114.156.136:25461/INFINITV/ZX89NM22/69
+
+#EXTINF:-1 tvg-chno="92"-id="" tvg-name="IZZI Afizzionados" tvg-logo="" group-title="Deportes",IZZI Afizzionados
+http://167.114.156.136:25461/INFINITV/ZX89NM22/43
+
+#EXTINF:-1 tvg-chno="93"id="CLARO SPORTS" tvg-name="CLARO SPORTS HD MEXICO" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title="Deportes",CLARO SPORTS 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
+#EXTINF:-1 tvg-chno="94",TUDN univision 🇺🇸 OK
+http://212.102.60.231/TUDN/index.m3u8
 
+#EXTINF:-1 tvg-chno="95"id="",AZTECA DEPORTES 
+https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
 
