@@ -261,27 +261,39 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-chno="87"id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-#EXTINF:-1 tvg-chno="88",UNIMAS
+#EXTINF:-1 tvg-chno="88", TELE 11 (Univision)
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
+#EXTINF:-1 tvg-chno="89",UNIMAS
 http://188.241.218.14:8070/pachaman/W63X36m5G97cj7Lf/147654
 
-#EXTINF:-1 tvg-chno="89"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision Modesto CA
+#EXTINF:-1 tvg-chno="90"id="canal 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa",Canal 5
+https://v3.playerlatino.live/stream/m3u8/14
+
+#EXTINF:-1 tvg-chno="91"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision Modesto CA
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61186
 
-#EXTINF:-1 tvg-chno="90",Telemundo Chicago, IL WSNSⓧ
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1212
+#EXTINF:-1 tvg-chno="92"id="ESPN 🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 🇲🇽
+http://167.114.156.136:25461/INFINITV/ZX89NM22/35
 
-#EXTINF:-1 tvg-chno="91",FOX SPORTS Premium 🇲🇽 OK
+#EXTINF:-1 tvg-chno="93",Universo
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.ts
+
+#EXTINF:-1 tvg-chno="94"id="" tvg-name="Fox Sports MX" tvg-logo="" group-title="Deportes",Fox Sports 🇲🇽
+http://167.114.156.136:25461/INFINITV/ZX89NM22/42
+
+#EXTINF:-1 tvg-chno="95",FOX SPORTS Premium 🇲🇽 
 http://167.114.156.136:25461/INFINITV/ZX89NM22/69
 
-#EXTINF:-1 tvg-chno="92"-id="" tvg-name="IZZI Afizzionados" tvg-logo="" group-title="Deportes",IZZI Afizzionados
+#EXTINF:-1 tvg-chno="96"-id="" tvg-name="IZZI Afizzionados" tvg-logo="" group-title="Deportes",IZZI Afizzionados
 http://167.114.156.136:25461/INFINITV/ZX89NM22/43
 
-#EXTINF:-1 tvg-chno="93"id="CLARO SPORTS" tvg-name="CLARO SPORTS HD MEXICO" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title="Deportes",CLARO SPORTS 
+#EXTINF:-1 tvg-chno="97"id="CLARO SPORTS" tvg-name="CLARO SPORTS HD MEXICO" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title="Deportes",CLARO SPORTS 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
-#EXTINF:-1 tvg-chno="94",TUDN univision 🇺🇸 OK
+#EXTINF:-1 tvg-chno="98",TUDN univision 🇺🇸 
 http://212.102.60.231/TUDN/index.m3u8
 
-#EXTINF:-1 tvg-chno="95"id="",AZTECA DEPORTES 
+#EXTINF:-1 tvg-chno="99"id="",AZTECA DEPORTES 1
 https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
 
