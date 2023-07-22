@@ -184,8 +184,8 @@ https://v3.playerlatino.live/stream/m3u8/99
 #EXTINF:-1 tvg-chno="63"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=QfK3mYzDR-MzyX4BGLnA
 
-#EXTINF:-1 tvg-chno="64"id="AQUI Y AHORA" tvg-logo="https://images.vix.com/prd/channel/61f837a07716418e3547bfaf/a7f93efc739e0e2e99a254741a992c96?tr=q-80&w=1920" group-title="Tv Abierta2",AQUI Y AHORA
-https://linear-306.frequency.stream/306/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="64"id="CANAL 57 Palm Beach Spanish TV Station" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Tv Abierta2",CANAL 57 Palm Beach Spanish TV Station
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
 
 #EXTINF:-1 tvg-chno="65"id="CRÓNICAS" tvg-logo="https://images.vix.com/prd/channel/61f837ca7716417b6a47c256/0f07f9aacadcc250f4e31e82717274a3?tr=q-80&w=1920" group-title="Tv Abierta2",CRÓNICAS - Historias que hacen historias
 https://linear-315.frequency.stream/315/hls/master/playlist.m3u8
