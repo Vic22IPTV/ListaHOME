@@ -10,7 +10,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-chno="4"id="canal 5.1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa",canal 5.1
-https://v3.playerlatino.live/stream/m3u8/14
+https://pe.shortgod.com:443/sopa/tv5.php?id=9024
 
 #EXTINF:-1 tvg-chno="5"group-title="Bics Extra", AZTECA 7.1
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
@@ -18,8 +18,8 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
 #EXTINF:-1 tvg-chno="6"id="A MAS" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Culture",A Más 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-chno="7"id="TelevisaEstado.mx" tvg-logo="https://i.imgur.com/BT2ci5E.png" group-title="Undefined",Canal 9 EDO MEX 
-https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
+#EXTINF:-1 tvg-chno="7"id="TelevisaEstado.mx" tvg-logo="https://i.imgur.com/BT2ci5E.png" group-title="Undefined",Canal 9 
+http://166.0.208.23:4481/galaTV/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="8"id="Canal14" tvg-logo="https://www.canalcatorce.tv/img/layout/logo_verde_footer_c14.svg" group-title="Tv Abierta2",Canal 14
 https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
@@ -202,12 +202,8 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="69" group-title="Bics Extra",RCN EXTRA CO
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="70"group-title="CULTURA"tvg-id="216dtv.cl"tvg-logo="https://i.imgur.com/XFFTAYW.png",TNT NOVELAS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBgg0mY7qybgGkvcv3HkQw","kid":"SessGL7WUsyTyHXOu5r0Dg"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1212/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-chno="70",Bjgtjme 
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6348969190b96ef5e0eb327a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=EUVbsAaBwT2Xc8xsyiJy
 
 
 #EXTINF:-1 tvg-chno="71"id=" group-title="Bics",NOVELAS TURCAS
@@ -268,7 +264,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 http://188.241.218.14:8070/pachaman/W63X36m5G97cj7Lf/147654
 
 #EXTINF:-1 tvg-chno="90"id="canal 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa",Canal 5
-https://v3.playerlatino.live/stream/m3u8/14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="91"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision Modesto CA
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61186
