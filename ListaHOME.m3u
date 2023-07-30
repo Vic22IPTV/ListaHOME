@@ -187,8 +187,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea151
 #EXTINF:-1 tvg-chno="64"id="CANAL 57 Palm Beach Spanish TV Station" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Tv Abierta2",CANAL 57 Palm Beach Spanish TV Station
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
 
-#EXTINF:-1 tvg-chno="65"id="CRÓNICAS" tvg-logo="https://images.vix.com/prd/channel/61f837ca7716417b6a47c256/0f07f9aacadcc250f4e31e82717274a3?tr=q-80&w=1920" group-title="Tv Abierta2",CRÓNICAS - Historias que hacen historias
-https://linear-315.frequency.stream/315/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="65",Bjgtjme 
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6348969190b96ef5e0eb327a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=EUVbsAaBwT2Xc8xsyiJy
 
 #EXTINF:-1 tvg-chno="66.1"id=" group-title="Bics",TRUE CRIMEN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
@@ -261,7 +261,7 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 tvg-chno="89",UNIMAS
-http://188.241.218.14:8070/pachaman/W63X36m5G97cj7Lf/147654
+http://23.237.108.226:80/hls/UNIMAS.m3u8|User-Agent=Roku/DVP(10.10.10)
 
 #EXTINF:-1 tvg-chno="90"id="canal 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa",Canal 5
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681|user-agent=UniversoSport
