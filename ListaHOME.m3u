@@ -82,14 +82,14 @@ https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
 #EXTINF:-1 tvg-chno="27"id="",AZTECA DEPORTES 2
 https://mdstrm.com/live-stream-playlist/61087e5b8e21e304a159211e.m3u8
 
-#EXTINF:-1 tvg-chno="28"id="Bein Sport Extra Ñ" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/33d3d5ec9a811182c2c6b64124bfe872.webp" group-title="Deportes",Bein Sport Extra Ñ
+#EXTINF:-1 tvg-chno="28"id="" tvg-name="TVC DEPORTES" tvg-logo="",TVC DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="29"id="Bein Sport Extra Ñ" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/33d3d5ec9a811182c2c6b64124bfe872.webp" group-title="Deportes",Bein Sport Extra Ñ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-chno="29"id="Bein Sport Extra 🇺🇸" tvg-logo="" group-title="Sports",Bein Sport Extra 🇺🇸
+#EXTINF:-1 tvg-chno="30"id="Bein Sport Extra 🇺🇸" tvg-logo="" group-title="Sports",Bein Sport Extra 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN.m3u8
-
-#EXTINF:-1 tvg-chno="30"id="Golazo 🇺🇸" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs97tLSQQ5GUHiNGZEe_P8shqXPwroUGh_A&usqp=CAU" group-title="Deportes",Golazo 🇺🇸
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
 
 #EXTINF:-1 tvg-chno="31"id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México 
