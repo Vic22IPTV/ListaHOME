@@ -25,7 +25,7 @@ http://166.0.208.23:4481/galaTV/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9W
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1 tvg-chno="9"id="ImagenTV" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Tv Abierta",Imagen TV 
-http://66.70.176.103:8081/LATINO%7CIMAGENTVR/LATINO%7CIMAGENTVR/chunks.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="10"id="" tvg-logo="" group-title="Undefined",Milenio Televisión 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
@@ -52,7 +52,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="18"group-title="Bics", EURO NEWS
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=GDTZYUugtoycsEVS14Z4
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=iKjQAT_M_EySXRV3KBe5
 
 #EXTINF:-1 tvg-chno="19"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
@@ -71,10 +71,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://167.114.156.136:25461/INFINITV/ZX89NM22/69
 
 #EXTINF:-1 tvg-chno="24"id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportes 🇺🇸
-http://66.70.176.103:8081/LATINO%7CESPNDEPORTESR/LATINO%7CESPNDEPORTESR/chunks.m3u8
+http://167.114.156.136:25461/INFINITV/ZX89NM22/167
 
 #EXTINF:-1 tvg-chno="25"id="" tvg-name="FOX Deportesⓧ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwO3KKxuSy3YgPc5B-qjk-Z9QIwCZN8-wQg&usqp=CAU" group-title="Sports",FOX Deportes 🇺🇸
-http://66.70.176.103:8081/LATINO%7CFOXDEPORTESR/LATINO%7CFOXDEPORTESR/chunks.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="26"id="",AZTECA DEPORTES 1
 https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
@@ -191,7 +191,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea151
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
 
 #EXTINF:-1 tvg-chno="65"id=" group-title="Bics", WEATHER CHANNEL ESPAÑOL
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5/variant.m3u8?url=4b93e39d09f02c158aa4e10ab0bc8a68-470503ece2322b8952bfbfd162def3c5a85aea4e7dc5a9fbcacd2259266c48eb02c6ba07fbf21736861becca1b0fb10822aa7503f90bbeec028f3622a5da221c2575f681fd78d4e94b9f097b07baaa5b0406e01b85eaebfa7c4a3f7a88ec3dd6ec9f71517a747830ac31b2cf2a3a74e6c47b34700393df7e83fd388d152dfd8d485dad83c1799c8f7de1867e0ed1c3503eeba3c0589f6affdee2626acf1e323e8b4d763304fd9a3e888596be7eb6f3473cd1263142aa719ffcf1f70baeec6f9465c971d03586832f4181372b31fc2748&x-plex-token=Q6ESyxZyQz6ZyFrRX7Wt&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-provider-streaming-start=1687445120
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-627121c4210f4a174062e5c5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=iKjQAT_M_EySXRV3KBe5
 
 #EXTINF:-1 tvg-chno="66"id=" group-title="Bics",TRUE CRIMEN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
@@ -268,7 +268,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="91"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision Modesto CA
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/61186
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="92"id="ESPN 🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 🇲🇽
 http://167.114.156.136:25461/INFINITV/ZX89NM22/35
