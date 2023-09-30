@@ -58,20 +58,20 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d97f682
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 
-#EXTINF:-1 tvg-chno="20"id="TUDN 🇺🇸" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes",TUDN 🇺🇸
+#EXTINF:-1 tvg-chno="20"id="TUDN 🇲🇽" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes",TUDN 🇲🇽
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722|user-agent=UniversoSport
 
-#EXTINF:-1 tvg-chno="21"id="TUDN 🇲🇽" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title=" group-title="Deportes",TUDN 🇲🇽
+#EXTINF:-1 tvg-chno="21"id="TUDN 🇺🇸" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title=" group-title="Deportes",TUDN 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="22"id="" tvg-name="Afizzionados" tvg-logo="https://i.picasion.com/pic92/9358c6ec8831b6efc136419050a5006d.gif" group-title="Deportes",Afizzionados 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="23"id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="mex",FOX SPORTS Premium 🇲🇽 
-http://167.114.156.136:25461/INFINITV/ZX89NM22/69
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="24"id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportes 🇺🇸
-http://167.114.156.136:25461/INFINITV/ZX89NM22/167
+http://clubtv.link/se2909/top6219/android9.php?c=0163|user-agent=FFFFF	
 
 #EXTINF:-1 tvg-chno="25"id="" tvg-name="FOX Deportesⓧ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwO3KKxuSy3YgPc5B-qjk-Z9QIwCZN8-wQg&usqp=CAU" group-title="Sports",FOX Deportes 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531|user-agent=UniversoSport
