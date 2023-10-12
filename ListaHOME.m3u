@@ -42,8 +42,8 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-chno="14" group-title="Bics Extra", MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-chno="15", MEGAnoticias
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-626c288e54f3232400a45f35.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=9qo8o6ycDKvGVebFuKsc
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-meganoticias-16x9_0.jpg", MEGAnoticias
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
 #EXTINF:-1 tvg-chno="16"id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -52,7 +52,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="18"group-title="Bics", EURO NEWS
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/b7ebab3c-5b6b-48f9-9bda-a73ed5445db1/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/ewnsabres_spa.m3u8
 
 #EXTINF:-1 tvg-chno="19"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
@@ -181,8 +181,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-chno="61"id="" tvg-name="UNIVISION L.A" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision Los Angeles California KMEX TV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668|user-agent=UniversoSport
 
-#EXTINF:-1 tvg-chno="62"id="" tvg-name="UNIVISION Dallas" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668|user-agent=UniversoSport
+#EXTINF:-1 tvg-chno="62"id="the_weather_channel" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-the_weather_channel-16x9.jpg" group-title="",the_weather_channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985 
 
 #EXTINF:-1 tvg-chno="63"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/f7968ccb-2acd-44b4-bdcd-be56773a7e5a/5.m3u8
