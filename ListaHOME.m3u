@@ -55,7 +55,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/ewnsabres_spa.m3u8
 
 #EXTINF:-1 tvg-chno="19"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 
 #EXTINF:-1 tvg-chno="20"id="TUDN 🇲🇽" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes",TUDN 🇲🇽
@@ -123,21 +123,23 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="41"id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Movies",SEO TV Películas 
-https://live.seo.tv.bo/live/4SEO.m3u8
-#EXTINF:-1 tvg-chno="42"id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony 
+
+#EXTINF:-1 tvg-chno="41"id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643|user-agent=UniversoSport
-#EXTINF:-1 tvg-chno="43"id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies2",Top Cine
+#EXTINF:-1 tvg-chno="42"id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies2",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-chno="44"id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies2",MyTime movie network Mexico 
+#EXTINF:-1 tvg-chno="43"id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies2",MyTime movie network Mexico 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="45"id="MyTimeMovieNetworkSpain.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies2",MyTime movie network Spain 
+#EXTINF:-1 tvg-chno="44"id="MyTimeMovieNetworkSpain.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies2",MyTime movie network Spain 
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="46"id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies2",Rakuten Action Movies
+#EXTINF:-1 tvg-chno="45"id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies2",Rakuten Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="47"id="",CINE ESPANTO
+#EXTINF:-1 tvg-chno="46"id="",CINE ESPANTO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+
+#EXTINF:-1 tvg-chno="47"logo="http://181.189.243.217:8000/playlist/tvg-logo/a0oc.png" group-title="TV PREMIUM", Golden Premiere HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="48"id="GOLDEN PLUS" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies2",GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -166,8 +168,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-chno="56"id="love nature" tvg-logo="https://a.jsrdn.com/hls/23107/love-nature/thumbh_20230210_194648_270.jpg" group-title="documental",LOVE NATURE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="57"id="" tvg-name="Caso cerrado" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="Mexico ➾ Documentary",Caso Cerrado
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
+#EXTINF:-1 tvg-chno="57"id="" tvg-name="canela horror" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg" group-title="",Canela Horror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 
 #EXTINF:-1 tvg-chno="58"id="" tvg-name="MX: TeleMUNDO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="Mexico",TELEMUNDO CALIFORNIA
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -182,7 +184,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="62"id="the_weather_channel" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-the_weather_channel-16x9.jpg" group-title="",the_weather_channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
 
 #EXTINF:-1 tvg-chno="63"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/f7968ccb-2acd-44b4-bdcd-be56773a7e5a/5.m3u8
@@ -196,8 +198,8 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8|license_type=clearkey&lic
 #EXTINF:-1 tvg-chno="66"id=" group-title="Bics",TRUE CRIMEN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
-#EXTINF:-1 tvg-chno="67"id="Spaninglis" tvg-logo="https://a.jsrdn.com/hls/23007/spanglish/thumbh_20220308_182113_270.png" group-title="variedad",Spanglish  
-https://d1rfybckk5ifoz.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Spanglish-DistroTV/285.m3u8
+#EXTINF:-1 tvg-chno="67"id=" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-todo_drama-16x9.jpg" group-title="Bics",TODO DRAMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
 
 #EXTINF:-1 tvg-chno="68"id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
@@ -223,9 +225,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-chno="75"id=" group-title="Bics",RUN:TIME TV Y PELICULAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 
-#EXTINF:-1 tvg-chno="76"id="" tvg-name="AMC ESPAÑOL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="Mexico ➾ Documentary",AMC español
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
-
+#EXTINF:-1 tvg-chno="76"id="" tvg-name="cINEMA" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/OBW615cJ4RN-HLM3G878V9AIUuwxlSyn18rSipLdIQI.jpg" group-title="",CINEMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
 
 #EXTINF:-1 tvg-chno="77"id="Canal14" tvg-logo="https://www.canalcatorce.tv/img/layout/logo_verde_footer_c14.svg" group-title="Tv Abierta2",Canal 14
 https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
@@ -242,8 +243,8 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="81"id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Undefined",Las Estrellas LATAM
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-chno="82"id="XHTTGTDT.mx" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="General",Canal 10 Chiapas 
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-chno="82"id="CONCIERTOS" tvg-logo="" group-title="musica",CONCIERTOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 
 #EXTINF:-1 tvg-chno="83"id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entertainment",Estrella TV 
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -280,7 +281,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://208.88.246.11:4481/eventox10/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="95",FOX SPORTS Premium 🇲🇽 
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
+http://208.88.246.77:5473/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="96"-id="" tvg-name="IZZI Afizzionados" tvg-logo="" group-title="Deportes",IZZI Afizzionados
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729|user-agent=UniversoSport
