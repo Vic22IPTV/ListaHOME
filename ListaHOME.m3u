@@ -54,8 +54,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-chno="18"group-title="Bics", EURO NEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/ewnsabres_spa.m3u8
 
-#EXTINF:-1 tvg-chno="19"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
-https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-chno="19"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español 
+http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-chno="20"id="TUDN 🇲🇽" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes",TUDN 🇲🇽
@@ -187,7 +187,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
 
 #EXTINF:-1 tvg-chno="63"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/f7968ccb-2acd-44b4-bdcd-be56773a7e5a/5.m3u8
+https://sabermas-distro.amagi.tv/SaberMas-xumo/master.m3u8
 
 #EXTINF:-1 tvg-chno="64"id="CANAL 57 Palm Beach Spanish TV Station" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Tv Abierta2",CANAL 57 Palm Beach Spanish TV Station
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
