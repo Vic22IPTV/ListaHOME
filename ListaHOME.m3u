@@ -89,7 +89,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-chno="30"id="Bein Sport Extra 🇺🇸" tvg-logo="" group-title="Sports",Bein Sport Extra 🇺🇸
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN.m3u8
+https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="31"id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México 
@@ -101,11 +101,11 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-chno="33"id="" tvg-name="MX:Nick" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",Nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fc9&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1 tvg-chno="34"id="" tvg-name="MX:Nick JR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",Nick JR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="34"id="PandamaxChannel.cl" tvg-logo="https://animax.lat/assets/img/pandalogo2.png" group-title="Animation",Pandamax Channel 
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="35"id="" tvg-name="Toon Goggles" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",Toon Googgles
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1 tvg-chno="35"logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="PREMIUM",Moni TV HD
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="36"id="" tvg-name="Discovery Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",Discovery Kids
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
@@ -130,10 +130,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-chno="43"id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies2",MyTime movie network Mexico 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="44"id="MyTimeMovieNetworkSpain.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies2",MyTime movie network Spain 
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="45"id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies2",Rakuten Action Movies
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="44"logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Planeta TV Movies
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="45"id="GOLDEN plus" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies2",GOLDEN 
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="46"id="",CINE ESPANTO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
@@ -290,7 +290,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1 tvg-chno="98",TUDN univision 🇺🇸 
-http://212.102.60.231/TUDN/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="99"id="",AZTECA DEPORTES 1
 https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
