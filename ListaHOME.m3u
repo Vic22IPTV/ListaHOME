@@ -113,25 +113,27 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 tvg-chno="37"logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids 
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno="38"id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Entertainment",LatinoKids 
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-chno="38"logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png/v1/fill/w_524,h_524,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/totovision.png" group-title="INTERNACIONAL", TOTOVISION
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
-#EXTINF:-1 tvg-chno="39"logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/thumbh_20230426_174328_270.jpg",Kids TV  
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
+#EXTINF:-1 tvg-chno="39"logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Villa TV
+https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
 
-#EXTINF:-1 tvg-chno="40"logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429_270.jpg",chiquilines  
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
+#EXTINF:-1 tvg-chno="40" id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV ✪ | CL
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-chno="41" tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine | CL
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-chno="42"group-title="ENTRETENIMIENTO" tvg-id="6" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?caster
 
-#EXTINF:-1 tvg-chno="41"id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643|user-agent=UniversoSport
-#EXTINF:-1 tvg-chno="42"id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies2",Top Cine
+#EXTINF:-1 tvg-chno="43"id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies2",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-chno="43"id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies2",MyTime movie network Mexico 
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="44"logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="45"id="GOLDEN plus" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies2",GOLDEN 
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 
