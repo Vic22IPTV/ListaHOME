@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
 #EXTINF:-1 tvg-chno="1" id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV AZTECA", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -8,11 +8,11 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-chno="2"id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="TV AZTECA",ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-chno="3"id="canal de las estrellas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="TELEVISA",Las Estrellas
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/25306.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="3"tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA",Las Estrellas HD
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-name="Canal 5 de México (XHGC)" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 de México (XHGC)
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30315.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="4" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5 de México (XHGC)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 de MX
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-name="Duplicate XHIMT Canal 7 TV Azteca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
@@ -20,8 +20,8 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-name="AMAS70" id="A MAS" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="TV AZTECA",A Más 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-name="Duplicate XEQ" id="" tvg-name="NUEVE 9" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TELEVISA",NUEVE 9
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/63805.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="7" tvg-id="ElNu9ve.mx" tvg-name="El Nu9ve" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TELEVISA",El Nu9ve
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="8"id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Noticias",TeleFórmula 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
@@ -50,13 +50,13 @@ https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40704_dark_360w_270h.png" group-title="Noticias", Euronews Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/ewnsabres_spa.m3u8
 
-#EXTINF:-1 tvg-chno="17"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias",France 24 Español 
-http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias",France 24 Español 
+https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-chno="18"id="RTinSpanish.mx" tvg-name="RT en español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="Noticias" ,RT en español
+#EXTINF:-1 tvg-chno="18" tvg-id="RTenEspanol.ru" tvg-name="Russia Today HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="Noticias" ,RT en español
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-chno="19"id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",DW en español
+#EXTINF:-1 tvg-chno="19" tvg-id="Deutsche.Welle.TV.Español.HDTV.(DWES).do" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",Deutsche Welle TV Español HDTV (DWES)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-name="TUDN" channel id="TUDN(Spanish).us(m3u4u)" id="TUDN univision 🇺🇸" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes TUDN" tvg-group="Deportes" ,Tu Deportes Network (TUDN) U.S. HDTV (TUDNHD) 
@@ -77,7 +77,7 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/15453.m3u8|user-agent=BrzLRz
 #EXTINF:-1 tvg-chno="25" tvg-name="465 Fox Sports Deportes" channel id="I465.72189.zap2it.com" id="" tvg-name="FOX Deportesⓧ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwO3KKxuSy3YgPc5B-qjk-Z9QIwCZN8-wQg&usqp=CAU" group-title="Deportes FOX Sports" , Fox Deportes en Español HDTV (U.S.) (FXDEHD)
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/40910.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-chno="26" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/04be54c79d1f55d0909e684f64f9fb57/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1696988819079_AI_Roku_260x147_Mono_DEPORTES_CB_Oct23.png" id=""group-title="Deportes" ,AZTECA DEPORTES 1
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/04be54c79d1f55d0909e684f64f9fb57/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1696988819079_AI_Roku_260x147_Mono_DEPORTES_CB_Oct23.png" id=""group-title="Deportes" , FUT AZTECA 
 https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
 
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/04be54c79d1f55d0909e684f64f9fb57/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1696988819079_AI_Roku_260x147_Mono_DEPORTES_CB_Oct23.png" id=""group-title="Deportes" ,AZTECA DEPORTES 2
@@ -132,8 +132,8 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="43"id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Cine",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-chno="44" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png?itok=SZFveXdQ" group-title="Cine" ,MAS CINE
-https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://cdn.vaughnsoft.net/profile/1428/peliculas_mania.jpg" group-title="Cine",PELICULA MANIA
+http://tinyurl.com/4zhyx5np
 
 #EXTINF:-1 tvg-chno="45"id="GOLDEN plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png"  group-title="Golden",GOLDEN 
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
@@ -248,7 +248,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="82"id="LasEstrellas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA",Las Estrellas Internacional
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="83" channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="Internacionales", Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -267,16 +267,16 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 tvg-chno="89"id="" tvg-name="Unimas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="TELEVISA,Unimas
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/142
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMAS_CHICAGO&calidad=hd&.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-name="Canal 5 de México (XHGC)" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 de México (XHGC)
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30315.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-chno="91"id="" tvg-name="270" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION",Univision Network
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/173.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="Univision.Network.HDTV.(UNIHD).us" tvg-name="Univision Network HDTV (UNIHD)" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png"  group-title="UNIVISION",UNIVISION 🇺🇸 HD
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/21971.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="92" tvg-name="ESPN Latinoamerica" channel id="ESPN.mx(m3u4u)" id="ESPN 🇲🇽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 🇲🇽
-http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3167.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="93"id="" tvg-name="NBC Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="TELEMUNDO", UNIVERSO HDTV (East) (UNVSOHD)
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1939.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -290,8 +290,8 @@ http://208.88.246.77:5473/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1 tvg-chno="96"-id="" tvg-name="Afizzionados HD" tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" group-title="Deportes TUDN", Afizzionados HD
 https://linear-348.frequency.stream/dist/univision/348/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="97"id="CLARO SPORTS" tvg-name="CLARO SPORTS HD MEXICO" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title="Deportes",CLARO SPORTS 
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-name="" channel id="6320d80a66666000086712d7" tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG.png"  group-title="Deportes CLARO" , Claro Sports (PLUTO) 🇨🇱
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-chno="98" tvg-name="Claro Sports 1" tvg-id="I145.72291.schedulesdirect.org" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title="Deportes CLARO",Claro Sports 🇲🇽
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
