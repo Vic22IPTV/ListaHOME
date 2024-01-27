@@ -67,8 +67,8 @@ https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="22"tvg-id="I13.108507.schedulesdirect.org" tvg-name="Afizzionados HD" tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" group-title="Deportes TUDN", Afizzionados 
 https://linear-348.frequency.stream/dist/univision/348/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-id="I312.123582.schedulesdirect.org" tvg-name="Fox Sports Premium HD" tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg"  id="Fox Sports Premium 🇲🇽" tvg-name="FOX SPORTS Premium" group-title="Deportes"  group-title="Deportes FOX Sports" ,FOX Sports Premium 🇲🇽 OP2
-http://208.88.246.11:5473/evento3/bodega/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="23" tvg-id="I312.123582.schedulesdirect.org" tvg-name="Fox Sports Premium HD" tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" tvg-name="FOX SPORTS Premium" group-title="Deportes"  group-title="Deportes FOX Sports" ,FOX Sports Premium 🇲🇽 OP2
+http://208.88.246.11:5473/eventox2/lista/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="24" tvg-id="I260.25595.schedulesdirect.org" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Deportes ESPN" ,ESPN Deportes 🇺🇸 
 http://208.88.246.11:5473/encoder82/evento16/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -264,8 +264,8 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-logo="https://teleonce.com/wp-content/themes/teleonce/dist/img/logo.svg" group-title="UNIVISION", TELE 11 
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#EXTINF:-1 tvg-chno="89"id="" tvg-name="Unimas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="TELEVISA,Unimas
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMAS_CHICAGO&calidad=hd&.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="I158.27773.schedulesdirect.org" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="Noticias", CNN español
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-name="Canal 5 de México (XHGC)" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 de México (XHGC)
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
@@ -283,7 +283,7 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/199
 https://vivo.lamtv.tv:8081/a/0278/playlist.m3u8|user-agent=EEEEE
 
 #EXTINF:-1 tvg-chno="95" tvg-name="FOX SPORTS Premium" tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="Deportes FOX Sports" , Fox Sports Premium 🇲🇽 
-http://208.88.246.77:5473/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://sdmx.vip:8080/Rodolfo01/Rodolfo01/2106730
 
 #EXTINF:-1 tvg-chno="96"-id="" tvg-name="Afizzionados HD" tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" group-title="Deportes TUDN", Afizzionados HD
 https://linear-348.frequency.stream/dist/univision/348/hls/master/playlist.m3u8
