@@ -59,7 +59,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-id="I464.75176.zap2it.com" tvg-name=""   tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes TUDN" tvg-group="Deportes" ,Tu Deportes Network (TUDN) U.S
-http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/337
 
 #EXTINF:-1 tvg-chno="21" tvg-id="I662.38683.schedulesdirect.org" tvg-name=""   tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="Deportes TUDN", TUDN 🇲🇽 vix
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
@@ -70,10 +70,10 @@ https://linear-348.frequency.stream/dist/univision/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="I312.123582.schedulesdirect.org" tvg-name="Fox Sports Premium HD" tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" tvg-name="FOX SPORTS Premium" group-title="Deportes"  group-title="Deportes FOX Sports" ,FOX Sports Premium 🇲🇽 OP2
 http://sdmx.vip:8080/Rodolfo01/Rodolfo01/2106730
 #EXTINF:-1 tvg-chno="24" tvg-id="I260.25595.schedulesdirect.org" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Deportes ESPN" ,ESPN Deportes 🇺🇸 
-http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/435
 
 #EXTINF:-1 tvg-chno="25" tvg-id="I465.72189.zap2it.com" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwO3KKxuSy3YgPc5B-qjk-Z9QIwCZN8-wQg&usqp=CAU" group-title="Deportes FOX Sports" , Fox Sports Deportes
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/501
 
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/04be54c79d1f55d0909e684f64f9fb57/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1696988819079_AI_Roku_260x147_Mono_DEPORTES_CB_Oct23.png" id=""group-title="Deportes" , FUT AZTECA 
 https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
@@ -138,10 +138,10 @@ https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="47" tvg-id="I348.80652.schedulesdirect.org" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="HBO" ,  HBO 2  
-http://livex.pop-app.live/s4n/poptv/Hbo2.Tecnobyte/chunks.m3u8
+https://vivo.lamtv.tv:8081/a/0072/playlist.m3u8|user-agent=CCCCC
 
-#EXTINF:-1 tvg-chno="48" tvg-name="Cinemax" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="Cine PREMIUM",CINEMAX HD
-http://138.219.58.234:8112/play/112
+#EXTINF:-1 tvg-chno="48" tvg-id="I352.57573.schedulesdirect.org" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57573_dark_360w_270h.png" group-title="Cine PREMIUM", Starz Edge Latino HD
+http://167.114.156.136:25461/INFINITV/ZX89NM22/190
 
 #EXTINF:-1 tvg-chno="49" channel-id="plex-5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667" tvg-id="5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97ed06b0-e59c-4a02-966f-c687dbce9ab5/Horrorfy_clr_1500x1000rdx.png" group-title="Cine" , Horrorfy
 https://horrorfy-distro.amagi.tv/Horrify-roku/master.m3u8
@@ -175,13 +175,13 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700015J1.m3u8|user-agent=okhttp/4.10.0
 https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 tvg-chno="59" tvg-id="I51.4.79548.zap2it.com" logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="TELEMUNDO", Telemundo 51 Miami
-http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
+https://vivo.lamtv.tv:8081/a/0279/playlist.m3u8|user-agent=CCCCC
 
 #EXTINF:-1 tvg-chno="60"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="TELEMUNDO", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-id="I403.14762.zap2it.com" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision West
-http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="I23.1.34962.zap2it.com" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision Miami
+https://vivo.lamtv.tv:8081/a/0295/playlist.m3u8|user-agent=CCCCC
 
 #EXTINF:-1 tvg-chno="62"id="the_weather_channel" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-the_weather_channel-16x9.jpg" group-title="",the_weather_channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
@@ -269,7 +269,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="91" tvg-id="I403.14762.zap2it.com" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision West
-http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
+https://vivo.lamtv.tv:8081/a/0294/playlist.m3u8|user-agent=CCCCC
 
 #EXTINF:-1 tvg-chno="92" tvg-id="I251.19158.schedulesdirect.org" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 🇲🇽 op2
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/97
@@ -278,7 +278,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/97
 http://167.114.156.136:25461/INFINITV/ZX89NM22/165
 
 #EXTINF:-1 tvg-chno="94" tvg-id="I47.1.54437.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="TELEMUNDO",Telemundo New York
-http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
+https://vivo.lamtv.tv:8081/a/0278/playlist.m3u8|user-agent=CCCCC
 
 #EXTINF:-1 tvg-chno="95" tvg-name="FOX SPORTS Premium" tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="Deportes FOX Sports" , Fox Sports Premium 🇲🇽 
 http://sdmx.vip:8080/Rodolfo01/Rodolfo01/2106730
