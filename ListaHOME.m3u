@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-chno="1" tvg-id="I85.46607.schedulesdirect.org" tvg-name=""  tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV AZTECA", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -10,7 +11,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646ccd3681844c000974d6
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5 de México (XHGC)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 de MX
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 
 #EXTINF:-1 tvg-chno="5" tvg-id="I234.102406.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
@@ -57,11 +58,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="Deutsche.Welle.TV.Español.HDTV.(DWES).do" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",Deutsche Welle TV Español HDTV (DWES)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-id="I464.75176.zap2it.com" tvg-name=""   tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes TUDN" tvg-group="Deportes" ,Tu Deportes Network (TUDN) U.S
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-http://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgvhgfjjcxbbQdfdgyhjjkhfxfg/916.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Deportes", TV MAX
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-id="I662.38683.schedulesdirect.org" tvg-name=""   tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="Deportes TUDN", TUDN 🇲🇽 vix
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
@@ -83,15 +81,14 @@ https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/04be54c79d1f55d0909e684f64f9fb57/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1696988819079_AI_Roku_260x147_Mono_DEPORTES_CB_Oct23.png" id=""group-title="Deportes" ,AZTECA DEPORTES 2
 https://mdstrm.com/live-stream-playlist/61087e5b8e21e304a159211e.m3u8
 
-#EXTINF:-1 tvg-chno="28"channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png"  group-title="⚽FUTBOL LIGA MX⚽" , Zona TUDN 🇺🇸 
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="I145.72291.schedulesdirect.org" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Deportes CLARO", Claro Sports México 🇲🇽 op2
+https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
 #EXTINF:-1 tvg-chno="29" tvg-id="I385.101111.schedulesdirect.org" tvg-name="" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/imagen_c_1920x1080.jpg" group-title="Nacional" tvg-shift="+1", Imagen TV Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=614
 
 #EXTINF:-1 tvg-chno="30" tvg-id="" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png" group-title="Nacional", FREE TV 8.2
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
-
 
 #EXTINF:-1 tvg-chno="31"channel-id="roku-0e9a0d968d225a3eb93784404f7edadf" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0e9a0d968d225a3eb93784404f7edadf/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112610226_americateve_260x147.png" group-title="Internacional" , AmericaTeve
 https://i.mjh.nz/Roku/0e9a0d968d225a3eb93784404f7edadf.m3u8
@@ -100,50 +97,50 @@ https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.
 #EXTINF:-1 tvg-chno="33"  tvg-id="" logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/48?cb=20200108123758&path-prefix=es" group-title="Internacional", Televisora Nacional de Panamá S.A Canal 2 HDTV (TVNHD) [1020]
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-id=""  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"  group-title="Internacional" , La 1 1080
+#EXTINF:-1 tvg-chno="34" tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="Internacional" tvg-shift="-6" ,Canal 4
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-id="ATV.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/08/signal-atv-8.png" group-title="Internacional" tvg-shift="-6" , ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="WAPADT1.pr" tvg-logo="https://i.imgur.com/kqq7tD9.png" group-title="Internacional" tvg-shift="-6", Wapa
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="37" tvg-id=""  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"  group-title="Internacional" , La 1 1080
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 tvg-chno="35" tvg-id=""  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png" group-title="Internacional" , La 2 1080
+#EXTINF:-1 tvg-chno="38" tvg-id=""  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png" group-title="Internacional" , La 2 1080
 https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 tvg-chno="36" tvg-id="Equipo de investigación" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Equipo%20de%20investigaci%C3%B3n.png" group-title="Crimen", Equipo de investigación 1080
+#EXTINF:-1 tvg-chno="39" tvg-id="Equipo de investigación" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Equipo%20de%20investigaci%C3%B3n.png" group-title="Crimen", Equipo de investigación 1080
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Multicine atresplayer" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png" group-title="Cine PREMIUM", Multicine atresplayer 1080
+#EXTINF:-1 tvg-chno="40" tvg-id="Multicine atresplayer" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png" group-title="Cine PREMIUM", Multicine atresplayer 1080
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
-#EXTINF:-1 tvg-chno="38" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Hormiguero.png" group-title="Entretenimiento" , El Hormiguero 1080
+#EXTINF:-1 tvg-chno="41" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Hormiguero.png" group-title="Entretenimiento" , El Hormiguero 1080
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-id="sangre-fria" tvg-name="Sangre Fría" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="Crimen" , Sangre Fría
+#EXTINF:-1 tvg-chno="42" tvg-id="sangre-fria" tvg-name="Sangre Fría" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="Crimen" , Sangre Fría
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
 
-#EXTINF:-1 tvg-chno="40"logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Planeta TV Movies
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="Star TVE HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_tve_hd-mediano.png" group-title="Internacional" tvg-shift="-1" , Star TVE HD 1080
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-chno="41" id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="Cine", Terror TV ✪ | CL
+#EXTINF:-1 tvg-chno="44" id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="Cine", Terror TV ✪ | CL
 https://tv.streaming-chile.com:19360/8140/8140.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno="42" tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine", +Cine | CL
+#EXTINF:-1 tvg-chno="45" tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="Cine", +Cine | CL
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno="43"id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Cine",Top Cine
+#EXTINF:-1 tvg-chno="46"id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Cine",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-chno="44" tvg-id="grjngo-es" tvg-name="Grjngo" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg" group-title="Cine Spain" , Grjngo
+#EXTINF:-1 tvg-chno="47" tvg-id="grjngo-es" tvg-name="Grjngo" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg" group-title="Cine Spain" , Grjngo
 https://5c579fdda41740e2a15ba13f0ae11562.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="45"id="GOLDEN plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png"  group-title="Golden",GOLDEN 
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="46"id="GOLDEN plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png" group-title="Golden",GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="47"  tvg-id="Cine Premium" tvg-name="Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="Cine PREMIUM", Cine Premium
-http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="48"  tvg-id="FMH Películas" tvg-name="FMH Películas" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies. jpg" group-title="Cine PREMIUM", Películas FMH
-http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
+#EXTINF:-1 tvg-chno="48" channel-id="roku-e3823bb513585861904499a21a736c4f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751371133_CanalVix_RokuHub_260x147_White.png" group-title="Entretenimiento" , Canal ViX
+https://i.mjh.nz/Roku/e3823bb513585861904499a21a736c4f.m3u8
 
 #EXTINF:-1 tvg-chno="49" channel-id="plex-5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667" tvg-id="5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97ed06b0-e59c-4a02-966f-c687dbce9ab5/Horrorfy_clr_1500x1000rdx.png" group-title="Cine" , Horrorfy
 https://horrorfy-distro.amagi.tv/Horrify-roku/master.m3u8
@@ -176,8 +173,8 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700015J1.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 tvg-chno="58" tvg-name="" channel-id="samsung-ESBC4700002TD" tvg-id="ESBC4700002TD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20230426T015717SQUARE.png_20230426015717.png"  group-title="Documental" , Love the Planet
 https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 tvg-chno="59" tvg-id="I51.4.79548.zap2it.com" logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="TELEMUNDO", Telemundo 51 Miami
-https://vivo.lamtv.tv:8081/a/0279/playlist.m3u8|user-agent=CCCCC
+#EXTINF:-1 tvg-chno="59" channel-id="roku-5ae9fb0c6e015b0d951063f6a6b39ee5" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5ae9fb0c6e015b0d951063f6a6b39ee5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1711394905485_telemundo-acci-n-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1_%25281%2529.png" group-title="TELEMUNDO" , Telemundo Acción
+https://i.mjh.nz/Roku/5ae9fb0c6e015b0d951063f6a6b39ee5.m3u8
 
 #EXTINF:-1 tvg-chno="60"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="TELEMUNDO", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
