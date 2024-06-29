@@ -8,7 +8,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-chno="3"tvg-id="I402.16461.schedulesdirect.org" tvg-name="Las Estrellas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA",Las Estrellas HD
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="Canal 5 de México (XHGC)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 de MX
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
@@ -20,7 +20,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="I233.97020.schedulesdirect.org" tvg-name=""  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TELEVISA", Nu9ve
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="8"id="121.34344.schedulesdirect.org" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Noticias",TeleFórmula 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
@@ -58,11 +58,11 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="Deutsche.Welle.TV.Español.HDTV.(DWES).do" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",Deutsche Welle TV Español HDTV (DWES)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="Deportes", TV MAX
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/320px-ViX_Logo.svg.png" group-title="⚽FUTBOL LIGA MX⚽",ViX Deportes 23
+https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="I662.38683.schedulesdirect.org" tvg-name=""   tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="Deportes TUDN", TUDN 🇲🇽 vix
-https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="WAPADT2.pr" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/320px-WAPA-TV_logo.svg.png" tvg-shift="-6" , WAPA DEPORTES
+https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-chno="22"channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png" tvg-group="Deportes"  group-title="Deportes TUDN" , Zona TUDN  
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
@@ -92,13 +92,15 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 #EXTINF:-1 tvg-chno="31"channel-id="roku-0e9a0d968d225a3eb93784404f7edadf" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0e9a0d968d225a3eb93784404f7edadf/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112610226_americateve_260x147.png" group-title="Internacional" , AmericaTeve
 https://i.mjh.nz/Roku/0e9a0d968d225a3eb93784404f7edadf.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="" tvg-logo="https://www.repretel.com/wp-content/themes/albavision-theme/img/logo.png" group-title="Internacional", Repretel 6 (CR6) [6]
-https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="32" channel-id="roku-34beeb8efcb656f08d91298bb94e1815" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/34beeb8efcb656f08d91298bb94e1815/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1709832111326_Logo_wapaplus_260x147px_dark_29feb_marketing_HMTV.png" group-title="Internacional" , WAPA+
+https://i.mjh.nz/Roku/34beeb8efcb656f08d91298bb94e1815.m3u8
+
 #EXTINF:-1 tvg-chno="33"  tvg-id="" logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/48?cb=20200108123758&path-prefix=es" group-title="Internacional", Televisora Nacional de Panamá S.A Canal 2 HDTV (TVNHD) [1020]
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="Internacional" tvg-shift="-6" ,Canal 4
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/90px-Canal-21.png" group-title="Internacional", SV: CANAL 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-chno="35" tvg-id="ATV.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/08/signal-atv-8.png" group-title="Internacional" tvg-shift="-6" , ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
@@ -107,10 +109,10 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="37" tvg-id=""  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"  group-title="Internacional" , La 1 1080
-https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8|user-agent=okhttp/4.10.0
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 
 #EXTINF:-1 tvg-chno="38" tvg-id=""  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png" group-title="Internacional" , La 2 1080
-https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8|user-agent=okhttp/4.10.0
+https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="Equipo de investigación" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Equipo%20de%20investigaci%C3%B3n.png" group-title="Crimen", Equipo de investigación 1080
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
